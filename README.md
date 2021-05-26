@@ -1,4 +1,5 @@
-# DetailedBACF
+# Learning background-aware correlation filters for visual tracking
+
 The source code and **detailed optimization process** of the classcical CF-based tracker BACF. 
 
 Reference
