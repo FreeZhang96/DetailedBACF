@@ -1,5 +1,5 @@
 # DetailedBACF
-The source code and *detailed optimization process* of the classcical CF-based tracker BACF. 
+The source code and **detailed optimization process** of the classcical CF-based tracker BACF. 
 
 Reference
 ---------------
